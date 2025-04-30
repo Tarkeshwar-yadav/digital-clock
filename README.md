@@ -15,7 +15,7 @@ A simple digital clock made with HTML, CSS, and JavaScript. It displays the curr
 
 ## Screenshot
 
-![Screenshot](screenshot(4).png) <!-- Optional: add screenshot file to your repo -->
+![Screenshot](screenshot.png) <!-- Optional: add screenshot file to your repo -->
 
 ## Technologies Used
 
